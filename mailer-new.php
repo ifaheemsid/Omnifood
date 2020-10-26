@@ -1,3 +1,4 @@
+/*
 <?php
 
     // Get the form fields, removes html tags and whitespace.
@@ -32,4 +33,4 @@
     // Redirect to the index.html page with success code
     header("Location: http://www.webdesigncourse.co/omnifood/index.php?success=1#form");
 
-?>
+?> */
