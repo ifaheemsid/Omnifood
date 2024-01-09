@@ -26,10 +26,15 @@ Also provided by Omnifood in a text document.
 
 wireframe or sketchout roughly some examples of the interface (Wireframes attached)
 
-## 4.Design
+## 4. Design
 
 Color: flat orange - friendly, confident, courage,
 Font: LATO typeface -warm, stabiilty, serious but friendly
+
+## 5. Tech
+- HTML5
+- CSS3 compiled from SCSS
+- JavaScript
 
 
 
